@@ -1,0 +1,9 @@
+*.py
+__pycache__/
+*.csv
+*.xlsx
+*.ods
+*.env
+Windows_Build_Kit*
+build/
+source/

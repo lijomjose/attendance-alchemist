@@ -1,0 +1,27 @@
+ATTENDANCE ALCHEMIST 1.2.0
+
+Your report. A little abracadabra with Python. Attendance, sorted.
+
+1. Extract the download completely.
+2. Allow AttendanceAlchemist to run as a program in its file permissions.
+3. Open AttendanceAlchemist. No Python installation is required.
+4. Choose your SLCM Date Wise Attendance Report.
+5. Click Work your magic - Generate sheets.
+
+Requires Intel/AMD 64-bit Linux, glibc 2.39+ (such as Ubuntu 24.04+) and a
+graphical desktop. This is a Linux executable, not a Windows EXE.
+
+If needed in a terminal:
+    chmod +x AttendanceAlchemist
+    ./AttendanceAlchemist
+
+Click Where do I find the report? inside the app for the login-first direct
+link and manual export instructions. Processing stays on your computer.
+
+The output has one sheet per subject/section, date-only session headings,
+cumulative present counts, A for absences, class totals and attendance %.
+Student names within each course offering are used as identifiers because
+the standard export does not contain student registration numbers.
+
+Latest downloads and instructions:
+https://github.com/lijomjose/attendance-alchemist
